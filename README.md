@@ -7,4 +7,4 @@ Youtube: https://www.youtube.com/watch?v=FR8qjx_H8f0&feature=youtu.be
 
 
 Write me if you need more information
-<img src="Media1.gif?raw=true" width="800px">
+<img src="Media1.gif?raw=true" width="600px">
